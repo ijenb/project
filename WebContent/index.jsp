@@ -7,7 +7,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Blackwhite by TEMPLATED</title> 
+<title>Feyenoord Blog</title> 
 <link href='http://fonts.googleapis.com/css?family=Nova+Mono' rel='stylesheet' type='text/css' />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
@@ -16,8 +16,8 @@
 	<div id="header-wrapper">
 		<div id="header">
 			<div id="logo">
-				<h1><a href="#">Black/White </a></h1>
-				<p>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+				<h1><a href="#index.jsp">Feyenoord </a></h1>
+				
 			</div>
 		</div>
 	</div>
